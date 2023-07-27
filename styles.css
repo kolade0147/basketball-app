@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-color: #371c4b;
+    }
+    
+    .container {
+    display: flex;
+    justify-content: space-around;
+    font-size:25px;
+    }
+    .score1{
+     width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    
+    background: black;
+    border-radius: 5px;
+    
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    /* or 141% */
+    
+    text-align: center;
+    
+    color: #F94F6D;
+     
+    }
+    .score2{
+      width: 155px;
+    height: 120px;
+    left: 82px;
+    top: 125px;
+    
+    background: black;
+    border-radius: 5px;
+    
+    font-family: 'Cursed Timer ULiL';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 127px;
+    /* or 141% */
+    
+    text-align: center;
+    
+    color: #F94F6D;
+    }
+    .guest-btn{
+     box-sizing: border-box;
+    border-radius: 10px;
+        margin:20px;
+    
+    }
+    .home-btn{
+        box-sizing: border-box;
+        border-radius:10px;
+        margin:20px;
+        
+    }
+    .home{
+        font-size:50px;
+        color:white;
+    }
+    .guest{
+        font-size:50px;
+        color:white;
+    }
